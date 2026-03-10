@@ -7,5 +7,6 @@ scikit-learn
 tensorflow-cpu
 feedparser
 transformers
+--extra-index-url https://pytorch.org
 torch
 tvdatafeed @ git+https://github.com/rongardF/tvdatafeed.git
